@@ -11,12 +11,9 @@
 
 - 🔭 I’m currently working on Java and Python projects
 - 🌱 I’m currently learning Bug Hunting 
-
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about coding and security
 - 📫 How to reach me: ....
 - 😄 Pronouns: He/Him
-
 - 🎯 Portfolio website: [Portfolio](https://google.com)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
