@@ -6,8 +6,7 @@
 
 
 ### Hi there, I am Vasudeva Raju B K 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
-[![Gmail Badge](https://img.shi
+[![Linkedin Badge](https://img.shields.io/badge/-vasudevarajubk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
 [![Gmail Badge](https://img.shields.io/badge/-indrapooja20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indrapooja20@gmail.com)](mailto:indrapooja20@gmail.com) 
 
 - 🔭 I’m currently working on ...
