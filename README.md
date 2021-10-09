@@ -9,9 +9,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-vasudevarajubk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
 [![Gmail Badge](https://img.shields.io/badge/-indrapooja20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indrapooja20@gmail.com)](mailto:indrapooja20@gmail.com) 
 
-- 🔭 I’m currently working on Java and Python Languages
+- 🔭 I’m currently working on Java and Python projects
 - 🌱 I’m currently learning Bug Hunting 
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about coding and security
 - 📫 How to reach me: ....
