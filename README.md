@@ -13,6 +13,7 @@
 - 🎯 Portfolio website: [Portfolio](https://google.com)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=raju1701&show_icons=true&theme=merko&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>  
