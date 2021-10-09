@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Java and Python projects
 - 🌱 I’m currently learning Bug Hunting 
-- 💬 Ask me about coding and security
+- 💬 Ask me about anything I am Happy to help
 - 📫 How to reach me: indrapooja20@gmail.com
 - 😄 Pronouns: He/Him
 - 🎯 Portfolio website: [Portfolio](https://google.com)
