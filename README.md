@@ -6,7 +6,8 @@
 
 
 ### Hi there, I am Vasudeva Raju B K 👋
-[![Linkedin Badge](https://img.shields.io/badge/-vasudeva-raju-b-k-90b637151-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
+[![Gmail Badge](https://img.shi
 [![Gmail Badge](https://img.shields.io/badge/-indrapooja20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indrapooja20@gmail.com)](mailto:indrapooja20@gmail.com) 
 
 - 🔭 I’m currently working on ...
@@ -34,7 +35,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
