@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-<!--
+
+<img align="right" src="https://github.com/raju1701/raju1701/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+
+
+
+### Hi there, I am Vasudeva Raju B K 👋
+[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
+[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indrapooja20@gmail.com)](mailto:indrapooja20@gmail.com) 
+
+
+
 **raju1701/raju1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,16 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="right" src="https://github.com/raju1701/raju1701/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
-
-
-
-### Hi there, I am Vasudeva Raju B K 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indrapooja20@gmail.com)](mailto:indrapooja20@gmail.com) 
+- 😄 Pronouns: He/Him
 
 - 🎯 Portfolio website: [Portfolio](https://google.com)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
