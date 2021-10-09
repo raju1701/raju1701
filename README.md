@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <img align="right" src="https://github.com/raju1701/raju1701/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
@@ -6,14 +6,8 @@
 
 
 ### Hi there, I am Vasudeva Raju B K 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indrapooja20@gmail.com)](mailto:indrapooja20@gmail.com) 
-
-
-
-**raju1701/raju1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Vasudevaraju B K-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
+[![Gmail Badge](https://img.shields.io/badge/-indrapooja20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indrapooja20@gmail.com)](mailto:indrapooja20@gmail.com) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -29,8 +23,8 @@ Here are some ideas to get you started:
 💻 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
+- Bug Hunting 🧐
+- Hacking 😬
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=raju1701&show_icons=true&theme=merko&border_color=61dafb&hide_border=true&include_all_commits=true" />
