@@ -1,7 +1,8 @@
 <img align="right" src="https://github.com/raju1701/raju1701/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
-### Hi there, I am Vasudeva Raju B K 👋
+<!-- ### Hi there, I am Vasudeva Raju B K 👋 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Vasudeva Raju B K 👋)](https://git.io/typing-svg)
 [![Linkedin Badge](https://img.shields.io/badge/-vasudevarajubk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
 [![Gmail Badge](https://img.shields.io/badge/-indrapooja20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indrapooja20@gmail.com)](mailto:indrapooja20@gmail.com) 
 
