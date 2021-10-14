@@ -10,7 +10,7 @@
 - 💬 Ask me about anything I am Happy to help
 - 📫 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151)
 - 😄 Pronouns: He/Him
-- 🎯 Portfolio website: [Portfolio](https://google.com)
+- 🎯 Portfolio website: [Portfolio](https://raju1701.github.io/portfolio/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 
