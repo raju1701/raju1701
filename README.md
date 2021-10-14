@@ -1,10 +1,11 @@
 <img align="right" src="https://github.com/raju1701/raju1701/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
+### Hi, I'm Vasudeva Raju B K 👋 (:coffee::computer::bulb::heart:)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2341BD20&width=500&lines=Coder;Developer;Cybersecurity+Researcher;and+Hacker!;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-<!-- ### Hi there, I am Vasudeva Raju B K 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Vasudeva Raju B K 👋)](https://git.io/typing-svg)
-[![Linkedin Badge](https://img.shields.io/badge/-vasudevarajubk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/)
-[![Gmail Badge](https://img.shields.io/badge/-indrapooja20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:indrapooja20@gmail.com)](mailto:indrapooja20@gmail.com) 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Coder;+Developer;Cybersecurity+Researcher;and+Hacker!;Nice+to+meet+you...)](https://git.io/typing-svg) -->
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/VasudevarajuBK?t=WJIynnu4SqgiYXnwIlJ-oA&s=09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuFfFbPaxLsFgPwCIPq0eiQ) [![DEV](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/raju1701)
 
 - 🔭 I’m currently working on Java and Python projects
 - 🌱 I’m currently learning Bug Hunting 
