@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/raju1701/raju1701/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+<!-- <img align="right" src="https://github.com/raju1701/raju1701/blob/main/developer.gif" alt="Coder GIF" width="420" height="330"> -->
 
 ### Hi, I'm Vasudeva Raju B K 👋 (:coffee::computer::bulb::heart:)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2341BD20&width=500&lines=Coder;Developer;Cybersecurity+Researcher;and+Hacker!;Nice+to+meet+you...)](https://git.io/typing-svg)
