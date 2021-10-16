@@ -5,6 +5,9 @@
 <br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/vasu.devaraju.9404) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/VasudevarajuBK?t=WJIynnu4SqgiYXnwIlJ-oA&s=09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasudeva-raju-b-k-90b637151/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuFfFbPaxLsFgPwCIPq0eiQ) [![DEV](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/raju1701)
 
+![](https://komarev.com/ghpvc/?username=raju1701&color=blue)
+
+
 - 🔭 I’m currently working on Java and Python projects
 - 🌱 I’m currently learning Bug Hunting 
 - 💬 Ask me about anything I am Happy to help
